@@ -1,0 +1,15 @@
+{
+  "name": "javascript_store",
+  "version": "1.0.0",
+  "description": "Store project",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "store"
+  ],
+  "author": "RaLd",
+  "license": "ISC"
+}
